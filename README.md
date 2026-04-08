@@ -52,7 +52,7 @@ A space-saving retractable staircase built on scissor-linkage kinematics. Demons
 ## 📄 Portfolio
 
 An interactive HTML portfolio is included in this repository:
-👉 [`Kunal_Kongari_Portfolio.html`](./Kunal_Kongari_Portfolio.html)
+👉 [`Kunal_Kongari_Portfolio.html`]([./Kunal_Kongari_Portfolio.htm](https://kunalkongari.github.io/CAD-MECHANICAL/)l)
 
 Open it in any browser to view the full project portfolio with visuals and descriptions.
 
